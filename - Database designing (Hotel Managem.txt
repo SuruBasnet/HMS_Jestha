@@ -1,0 +1,38 @@
+- Database designing (Hotel Management System)
+ - Requirements collection
+	- Front desk
+	- Accounting
+	- Restaurant
+	- Management
+
+- Front desk (User)
+	- User
+	- Room
+	- RoomType
+	- CustomerDetail
+	- EmployeeInfo
+
+- Accounting
+	- Bill
+	- PaymentInfo
+
+- Restaurant
+	- Food
+	- Menu
+	- MenuType
+
+- Management
+	- Service
+	- Facilities
+
+# Relation
+	- When two objects needs to be ralted in db we create relation between them.
+
+# Type of relation
+ 	- One to Many : A table object can have multiple relation with related table objects.
+
+	- One to One : A table object can have only one relation with related table objects.
+
+	- Many to Many : A A-table object can have multiple relation with related B-table objects and The related B-table object can have multiple relation with A-table objects
+		
+	
