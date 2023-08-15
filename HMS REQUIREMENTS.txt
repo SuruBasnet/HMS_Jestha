@@ -1,0 +1,10 @@
+HMS REQUIREMENTS
+
+Views
+	- All Model (CRUD)
+	- All Model (Filter with related field)
+	- Permission
+		- Frotdesk user can hit frontend api only
+		- Restaurant user can hit restaurant api only
+		- Management user can hit every api and he/she can only CRUD operate in Employee model
+		- Accounting user can hit accounting api only
